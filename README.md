@@ -27,17 +27,17 @@ Here you'll find collections of API requests for various projects I’ve worked 
 Import the .json files directly into your Postman app to see how I handle API testing.
 
 ### Skills & Tools
-Testing Frameworks: Cypress, JavaScript  
-API Testing: Postman, Swagger, RESTful services  
-Bug Tracking: JIRA, Excel  
-Test Case Management: Zephr Scale, Qase.io  
-Version Control: Git, GitHub Actions  
-Databases: SQL, MySQL, PostgreSQL  
-CI/CD Integration: GitHub Actions  
-Collaboration: Agile/Scrum methodologies  
+**Testing Frameworks:** Cypress, JavaScript  
+**API Testing:** Postman, Swagger, RESTful services  
+**Bug Tracking:** JIRA, Excel  
+**Test Case Management:** Zephr Scale, Qase.io  
+**Version Control:** Git, GitHub Actions  
+**Databases:** SQL, MySQL, PostgreSQL  
+**CI/CD Integration:** GitHub Actions  
+**Collaboration:** Agile/Scrum methodologies  
 
 ### Connect with Me
 Feel free to reach out if you have any questions about my work or would like to collaborate on QA projects!
 
-LinkedIn: https://www.linkedin.com/in/pamela-harraway
-Email: pdharraway@gmail.com
+**LinkedIn** https://www.linkedin.com/in/pamela-harraway
+**Email** pdharraway@gmail.com
